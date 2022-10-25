@@ -1,0 +1,5 @@
+This is Importent File For this app
+first you follow some step to use this in your mobile and you also have NODEJS
+    1.open Terminal
+    2.run - npm i react-icons
+    3.now you Enjoy The App😊.
